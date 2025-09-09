@@ -1,5 +1,5 @@
 # Staff-Mgmt
-Django Complete CRUD operation with DRF
+Django Complete CRUD operation with Django rest framework
 pip install djangorestframework
 add 'rest_framework' in settings.py
 
